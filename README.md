@@ -5,7 +5,7 @@
 ### Description
 This repository is to showcase the projects that are done in my Advanced GIS course. The goals of the course are to build upon existing knowledge of geographic information systems and apply skills to project based settings. 
 
-Link: 
+Link: https://jjphillips2.github.io/gis-portfolio/
 
 
 ## Improving Maternal and Child Health Outcomes in Pennsylvania | Fall 2022
