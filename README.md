@@ -1,4 +1,4 @@
-# Joshua Phillips Projects Page
+# Joshua Phillips's Projects Page
 
 ## Improving Maternal and Child Health Outcomes in Pennsylvania | Fall 2022
 ### Description
