@@ -4,7 +4,7 @@
 ### Description
 Here you will find all code and data used for predicting NBA shot outcomes from the late 1990's to 2020.
 
-Link: 
+Link: https://github.com/jjphillips2/AI---NBA-Final-Project
 
 ## Advanced Geographic Information Systems Projects | Spring 2023
 ### Description
