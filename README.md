@@ -6,7 +6,7 @@ Here you will find all code and data used for predicting NBA shot outcomes from 
 
 Link: https://github.com/jjphillips2/AI---NBA-Final-Project
 
-## Advanced Geographic Information Systems Projects | Spring 2023
+## Heat Desert Remedy Proposal in The Bronx
 ### Description
 This repository is to showcase the projects that are done in my Advanced GIS course. The goals of the course are to build upon existing knowledge of geographic information systems and apply skills to project-based settings. 
 
